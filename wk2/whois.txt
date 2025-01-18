@@ -1,0 +1,74 @@
+====================
+Domain: example.com
+====================
+Registrar: Internet Assigned Numbers Authority
+Creation Date: 1995-08-14
+Expiration Date: 2028-08-14
+Updated Date: 2023-07-12
+Name Servers: 
+  a.iana-servers.net
+  b.iana-servers.net
+Registrant Contact: 
+  Organization: IANA
+  Address: 12025 Waterfront Drive, Suite 300, Los Angeles, CA, 90094-2536, United States
+  Email: none@example.com
+
+====================
+Domain: google.com
+====================
+Registrar: MarkMonitor Inc.
+Creation Date: 1997-09-15
+Expiration Date: 2029-09-14
+Updated Date: 2023-10-20
+Name Servers: 
+  ns1.google.com
+  ns2.google.com
+Registrant Contact: 
+  Organization: Google LLC
+  Address: 1600 Amphitheatre Parkway, Mountain View, CA, 94043, United States
+  Email: contact@google.com
+
+====================
+Domain: microsoft.com
+====================
+Registrar: MarkMonitor Inc.
+Creation Date: 1991-05-02
+Expiration Date: 2030-05-03
+Updated Date: 2023-04-30
+Name Servers: 
+  ns1.microsoft.com
+  ns2.microsoft.com
+Registrant Contact: 
+  Organization: Microsoft Corporation
+  Address: One Microsoft Way, Redmond, WA, 98052, United States
+  Email: domainadmin@microsoft.com
+
+====================
+Domain: apple.com
+====================
+Registrar: CSC Corporate Domains, Inc.
+Creation Date: 1987-02-19
+Expiration Date: 2031-02-20
+Updated Date: 2023-03-05
+Name Servers: 
+  a.apple-dns.net
+  b.apple-dns.net
+Registrant Contact: 
+  Organization: Apple Inc.
+  Address: One Apple Park Way, Cupertino, CA, 95014, United States
+  Email: domains@apple.com
+
+====================
+Domain: amazon.com
+====================
+Registrar: MarkMonitor Inc.
+Creation Date: 1994-11-01
+Expiration Date: 2032-11-02
+Updated Date: 2023-06-11
+Name Servers: 
+  ns1.p31.dynect.net
+  ns2.p31.dynect.net
+Registrant Contact: 
+  Organization: Amazon Technologies Inc.
+  Address: 410 Terry Avenue North, Seattle, WA, 98109, United States
+  Email: domains@amazon.com
